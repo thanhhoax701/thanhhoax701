@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @thanhhoax701
+- 👋 Hi, I’m thanhhoax701
 - 🌱 I’m currently learning Can Tho University
-- Facebook: https://www.facebook.com/tthxxx01
+- 📫 How to reach me:
+Facebook: https://www.facebook.com/tthxxx01 
+Email: tth1610.vl@gmail.com
