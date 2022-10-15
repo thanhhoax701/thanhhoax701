@@ -1,6 +1,10 @@
-- 👋 Hi, I’m thanhhoax701
-- 🌱 I’m currently learning Can Tho University
-- 📫 How to reach me: https://www.facebook.com/tthxxx01 or email: tth1610.vl@gmail.com
+<h1>
+  Hey there, I’m thanhhoax701
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  I'm currently learning Can Tho University
+</h1>
+
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
@@ -25,11 +29,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thanhhoax701&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ---
 
