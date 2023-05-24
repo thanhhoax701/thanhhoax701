@@ -15,7 +15,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/channel/UCUGXnSg4JchlNOEQ5iMG0Xw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.facebook.com/tthxxx01">
@@ -33,7 +33,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Can Tho.
+I'm a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vinh Long.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building artificial intelligence application.
 
 - :seedling: Exploring Technical Content Writing.
