@@ -30,7 +30,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vinh Long.
+I'm a PHP Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vinh Long.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building artificial intelligence application.
 
 - :seedling: Exploring Technical Content Writing.
