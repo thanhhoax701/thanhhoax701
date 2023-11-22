@@ -1,8 +1,6 @@
 <h1>
   Hey there, My name is Tran Thanh Hoa.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
-  Currently, I am studying at Can Tho University.
 </h1>
 
 <!-- <div id="header" align="center">
